@@ -10,18 +10,10 @@ Stack: **MongoDB + Express + Node** (TypeScript), Mongoose ODM.
 
 ## Demo
 
-<!-- ──────────────────────────────────────────────────────────────────────────────
-     FOR A TRUE INLINE PLAYER (a committed .mp4 never plays from a relative path):
-       1. Open github.com/manish0502/mcp-notes/issues/new
-       2. Drag demo/mcp-notes-demo.mp4 into the comment box, wait for the upload
-       3. Copy the https://github.com/user-attachments/assets/... URL it produces,
-          paste it below on its own line, and delete the thumbnail line.
-          Close the issue without submitting — the uploaded URL stays valid.
-     ────────────────────────────────────────────────────────────────────────── -->
-[![Watch the demo](demo/poster.jpg)](demo/mcp-notes-demo.mp4)
+https://github.com/user-attachments/assets/b49dcb2d-029e-42d3-a3ce-12cb7e0d773f
 
 *Three minutes in the MCP Inspector: listing the tools, calling them against MongoDB,
-reading resources, and the raw JSON-RPC behind each call. Click to play.*
+reading resources, and the raw JSON-RPC behind each call.*
 
 ## What MCP actually gives you
 
