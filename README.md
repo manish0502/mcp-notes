@@ -10,8 +10,19 @@ Stack: **MongoDB + Express + Node** (TypeScript), Mongoose ODM.
 
 ## Demo
 
-A three-minute walkthrough in the MCP Inspector — listing tools, calling them, reading
-resources, and the raw JSON-RPC behind each call: [demo/mcp-notes-demo.mp4](demo/mcp-notes-demo.mp4)
+<!-- ──────────────────────────────────────────────────────────────────────────────
+     TO GET AN INLINE VIDEO PLAYER (GitHub will not play a committed .mp4 by path):
+       1. Push this repo, then open github.com/manish0502/mcp-notes/issues/new
+       2. Drag demo/mcp-notes-demo.mp4 into the comment box and wait for the upload
+       3. Copy the generated https://github.com/user-attachments/assets/... URL,
+          paste it below on its own line, and delete the thumbnail block.
+          Close the issue without submitting — the upload URL stays valid.
+     ────────────────────────────────────────────────────────────────────────── -->
+
+[![Watch the demo](demo/poster.jpg)](demo/mcp-notes-demo.mp4)
+
+*Three minutes in the MCP Inspector: listing the tools, calling them against MongoDB,
+reading resources, and the raw JSON-RPC behind each call. Click to play.*
 
 ## What MCP actually gives you
 
