@@ -8,6 +8,11 @@ Stack: **MongoDB + Express + Node** (TypeScript), Mongoose ODM.
 
 ---
 
+## Demo
+
+A three-minute walkthrough in the MCP Inspector — listing tools, calling them, reading
+resources, and the raw JSON-RPC behind each call: [demo/mcp-notes-demo.mp4](demo/mcp-notes-demo.mp4)
+
 ## What MCP actually gives you
 
 Three primitives, and who controls each one is the part people get wrong:
