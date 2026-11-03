@@ -2,6 +2,8 @@
 
 [![M8ven Score](https://m8ven.ai/badge/mcp/manish0502-mcp-notes-rkzg6t?v=d5c9a413eb720a741f3624a119f534b9)](https://m8ven.ai/mcp/manish0502-mcp-notes-rkzg6t?s=readme)
 
+[![M8ven Score](https://m8ven.ai/badge/mcp/manish0502/mcp-notes)](https://m8ven.ai/mcp/manish0502/mcp-notes?s=readme)
+
 An **MCP server** for capturing and querying project notes — backed by MongoDB, served
 over stdio or Express. A complete, minimal reference implementation of all three MCP
 primitives.
